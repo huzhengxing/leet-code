@@ -1,2 +1,0 @@
-# leet-code
-leetcode record
