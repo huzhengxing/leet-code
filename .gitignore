@@ -1,21 +1,35 @@
-/target/*
-/uploads/
-/*/target/
-/*/*/target/
-/logs/
-/outputs/
-*.R
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-/*/.factorypath
-/*/*/.factorypath
-### Eclipse ###
-.project
-.classpath
-.DS_Store
-.settings
-.vscode
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
 .history
