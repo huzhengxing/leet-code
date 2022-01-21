@@ -1,4 +1,4 @@
-import javax.swing.tree.TreeNode;
+package com.huzhengxing.ds.tree;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

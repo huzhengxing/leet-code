@@ -1,3 +1,5 @@
+package com.huzhengxing.ds.tree;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,19 +13,19 @@ Given the root of a binary tree, return the preorder traversal of its nodes' val
  */
 public class BinaryTreeInorderTraversal {
 
-	public List<Integer> inorderTraversal(TreeNode root) {
-		List<Integer> result = new ArrayList<Integer>();
-		traversal(root, result);	
-		return result;
-    }	
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<Integer>();
+        traversal(root, result);
+        return result;
+    }
 
-	public void traversal(TreeNode node, List<Integer> result) {			
-		if (node == null) {
-			return;
-		}
-		traversal(node.left, result);
-		result.add(node.val);
-		traversal(node.right, result);
-	}
-	
+    public void traversal(TreeNode node, List<Integer> result) {
+        if (node == null) {
+            return;
+        }
+        traversal(node.left, result);
+        result.add(node.val);
+        traversal(node.right, result);
+    }
+
 }

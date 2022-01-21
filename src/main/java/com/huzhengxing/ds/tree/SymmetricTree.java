@@ -1,19 +1,20 @@
+package com.huzhengxing.ds.tree;
 import com.huzhengxing.ds.tree.TreeNode;
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
 /*
  * @Author: zhengxing.hu
  * @Date: 2022-01-21 15:37:49
- * @LastEditTime: 2022-01-21 16:32:49
+ * @LastEditTime: 2022-01-21 17:13:10
  * @Description: 
 https://leetcode.com/problems/symmetric-tree/
 Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
  */
 public class SymmetricTree {
     public boolean isSymmetric(TreeNode root) {
-        if (root == null) return false;
+        if (root == null)
+            return false;
         List<TreeNode> tmp = new ArrayList<>();
         if (root.left == null && root.right == null) {
             return true;
