@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-12 20:53:01
  * @Description: 
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.HashMap;
 import java.util.Map;

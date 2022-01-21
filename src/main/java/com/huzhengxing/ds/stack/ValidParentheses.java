@@ -1,4 +1,4 @@
-package main.java.com.huzhengxing.ds.stack;
+package com.huzhengxing.ds.stack;
 
 import java.util.Stack;
 

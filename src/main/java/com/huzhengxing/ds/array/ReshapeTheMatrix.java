@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-14 22:52:12
  * @Description: https://leetcode.com/problems/reshape-the-matrix/
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 public class ReshapeTheMatrix {
 

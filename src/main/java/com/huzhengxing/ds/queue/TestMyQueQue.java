@@ -1,6 +1,4 @@
-package main.java.com.huzhengxing.ds.queue;
-
-import com.huzhengxing.queue.MyQueue;
+package com.huzhengxing.ds.queue;
 
 /**
  * @Auther: Albert

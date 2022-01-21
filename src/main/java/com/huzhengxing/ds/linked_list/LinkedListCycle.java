@@ -1,4 +1,4 @@
-package main.java.com.huzhengxing.ds.linked_list;
+package com.huzhengxing.ds.linked_list;
 
 import java.util.HashMap;
 import java.util.HashSet;

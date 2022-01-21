@@ -1,4 +1,10 @@
-package main.java.com.huzhengxing.ds.array;
+/*
+ * @Author: zhengxing.hu
+ * @Date: 2022-01-21 17:08:47
+ * @LastEditTime: 2022-01-21 17:24:45
+ * @Description: 
+ */
+package com.huzhengxing.ds.array;
 
 /**
  * @Auther: Albert

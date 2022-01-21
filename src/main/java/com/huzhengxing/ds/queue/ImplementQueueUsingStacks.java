@@ -1,4 +1,4 @@
-package main.java.com.huzhengxing.ds.queue;
+package com.huzhengxing.ds.queue;
 
 import java.util.Stack;
 

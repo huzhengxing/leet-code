@@ -1,4 +1,4 @@
-package huffman_tree;
+package com.huzhengxing.ds.tree.huffman_tree;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,6 +1,4 @@
-package main.java.com.huzhengxing.ds.stack;
-
-import com.huzhengxing.stack.MyStack;
+package com.huzhengxing.ds.stack;
 
 /**
  * @Auther: Albert

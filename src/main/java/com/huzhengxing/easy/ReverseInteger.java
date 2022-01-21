@@ -1,4 +1,10 @@
-package main.java.com.huzhengxing.easy;
+/*
+ * @Author: zhengxing.hu
+ * @Date: 2022-01-21 17:08:47
+ * @LastEditTime: 2022-01-21 17:34:29
+ * @Description: 
+ */
+package com.huzhengxing.easy;
 
 /**
  * 给出一个 32 位的有符号整数，你需要将这个整数中每位上的数字进行反转。

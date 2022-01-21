@@ -1,13 +1,13 @@
 /*
  * @Author: zhengxing.hu
  * @Date: 2022-01-13 13:57:08
- * @LastEditTime: 2022-01-13 19:50:59
+ * @LastEditTime: 2022-01-21 17:25:57
  * @Description: https://leetcode.com/problems/intersection-of-two-arrays-ii/
  * 
  * Given two integer arrays nums1 and nums2, return an array of their intersection.
  * Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.Arrays;
 import java.util.HashMap;

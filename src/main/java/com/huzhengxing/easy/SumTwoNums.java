@@ -1,4 +1,4 @@
-package main.java.com.huzhengxing.easy;
+package com.huzhengxing.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

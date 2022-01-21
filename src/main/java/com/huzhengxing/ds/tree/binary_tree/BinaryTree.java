@@ -1,4 +1,4 @@
-package binary_tree;
+package com.huzhengxing.ds.tree.binary_tree;
 
 /**
  * @Auther: Albert

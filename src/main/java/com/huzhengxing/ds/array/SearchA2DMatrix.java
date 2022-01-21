@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-19 12:12:25
  * @Description: https://leetcode.com/problems/search-a-2d-matrix/
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.Arrays;
 

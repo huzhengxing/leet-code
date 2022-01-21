@@ -1,8 +1,6 @@
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @Auther: Albert

@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-19 15:45:52
  * @Description: 
  */
-package main.java.com.huzhengxing.ds.string;
+package com.huzhengxing.ds.string;
 
 import java.util.ArrayList;
 import java.util.HashMap;

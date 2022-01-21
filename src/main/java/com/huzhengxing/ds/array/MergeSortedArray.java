@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-13 00:14:57
  * @Description: https://leetcode.com/problems/merge-sorted-array/
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 public class MergeSortedArray {
 

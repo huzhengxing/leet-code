@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-18 16:43:10
  * @Description: https://leetcode.com/problems/valid-sudoku/
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.HashMap;
 import java.util.HashSet;

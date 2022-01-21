@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-14 23:46:15
  * @Description: 
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.ArrayList;
 import java.util.List;

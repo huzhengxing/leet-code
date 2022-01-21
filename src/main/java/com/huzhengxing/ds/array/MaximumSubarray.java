@@ -6,7 +6,7 @@
  * Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
  * A subarray is a contiguous part of an array.
  */
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 public class MaximumSubarray {
 

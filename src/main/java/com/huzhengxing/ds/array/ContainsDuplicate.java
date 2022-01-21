@@ -1,4 +1,4 @@
-package main.java.com.huzhengxing.ds.array;
+package com.huzhengxing.ds.array;
 
 import java.util.HashSet;
 import java.util.Set;

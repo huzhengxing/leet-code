@@ -1,4 +1,10 @@
-package huffman_tree;
+/*
+ * @Author: zhengxing.hu
+ * @Date: 2022-01-21 17:08:47
+ * @LastEditTime: 2022-01-21 17:34:02
+ * @Description: 
+ */
+package com.huzhengxing.ds.tree.huffman_tree;
 
 /**
  * @Auther: Albert
